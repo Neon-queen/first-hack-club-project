@@ -20,7 +20,7 @@
 | [Resistors](https://www.mouser.co.za/en/ProductDetail/Bourns/3296W-1-221LF?qs=pLJKYPamQJy2wUNu52EYTg%3D%3D) | For LEDs and buttons | 1 | $2.47 | $2.47 | [Mouser](https://www.mouser.co.za/en/ProductDetail/Bourns/3296W-1-221LF?qs=pLJKYPamQJy2wUNu52EYTg%3D%3D) |
 | [Resistor](https://www.mouser.co.za/en/ProductDetail/Panasonic-Industry/EXB-14V103JX?qs=65SUpkGmTbZ66yNvTwS6cA%3D%3D) | For LEDs and Buttons | 1 | $0.19 | $0.19 | [Mouser](https://www.mouser.co.za/en/ProductDetail/Panasonic-Industry/EXB-14V103JX?qs=65SUpkGmTbZ66yNvTwS6cA%3D%3D) |
 | **Parts subtotal** | — | — | — | **$11.81** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$11.81** | — |
+| **Tax & shipping** | — | — | — | **$15.12** | — |
+| **Total** | — | — | — | **$26.93** | — |
 
-$18.19 left of the tier's funding.
+$3.07 left of the tier's funding.
