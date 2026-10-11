@@ -14,7 +14,9 @@ The board is designed for simple input control and learning PCB design.
 - Hack Club Half Life for project guidance
 
 ## Images
+## Project Images
 ![Starbie PCB](starbie_pcb.png)
 
-## BOM
-See `BOM.md` for the list of components.
+## Bill of Materials
+See [bom.csv](bom.csv) for the list of components.
+
